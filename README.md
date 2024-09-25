@@ -3,11 +3,11 @@ I'm Daksh Patel🫡
 
 
 
--👀 Seeking a Software Engineering internship
+- 👀 Seeking a Software Engineering internship
 
--💻 Was a Frontend Intern for a Startup Company called OpenSys.cloud over the summer.
+- 💻 Was a Frontend Intern for a Startup Company called OpenSys.cloud over the summer.
 
--🔠 Languages: Python, Java, C, C++, HTML, React JS, Node JS, Java Script
+- 🔠 Languages: Python, Java, C, C++, HTML, React JS, Node JS, Java Script
 
 ⚡️ Fun Fact: Sports Lover 🏀 🏈
 
