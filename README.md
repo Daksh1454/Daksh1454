@@ -1,6 +1,4 @@
-## Hi there,
-I'm Daksh Patel🫡
-
+## Hi there, I'm Daksh Patel🫡
 
 
 - 👀 Seeking a Software Engineering internship
