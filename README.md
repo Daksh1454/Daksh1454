@@ -1,7 +1,7 @@
 ## Hi there, I'm Daksh Patel🫡
 
 
-- 👀 Seeking a Software Engineering internship
+- 👀 Seeking a Software Engineering Job
 
 - 💻 Was a Frontend Intern for a Startup Company called OpenSys.cloud over the summer.
 
